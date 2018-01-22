@@ -1,13 +1,23 @@
 # Syllabus
 
-LCST 2230 A (CRN 7864) Simulation and Cybernetics - T/R 11:55-1:35
-LCST 2230 B (CRN 7853) Simulation and Cybernetics - T/R 1:50-3:30
+- LCST 2230 A (CRN 7864) Simulation and Cybernetics - T/R 11:55-1:35
+- LCST 2230 B (CRN 7853) Simulation and Cybernetics - T/R 1:50-3:30
 
 ---
 
 Listed description:
 
 > [Tracks C, M] This course will examine the usage of models, simulations, and games as ways of exploring, understanding, and critiquing various systems - ecological, social, economic, and/or political. Students will dissect and discuss classic models such as Schelling's Model of Segregation and Sugarscape, in addition to narrative applications, such as Vertu and Dwarf Fortress. Throughout the course students will learn various techniques for developing these models and will collectively design and implement a series of simple interactive simulations on topics of their choosing, such as voting, social media, and opinion flow and influence dynamics. Students should come with some prior programming experience, ideally with Python. An introductory Python course is offered in parallel for students without prior programming experience. Important note: Students must bring their own laptops to class.
+
+---
+
+What you'll get out of this course:
+
+- a new way of looking at the world, which hopefully leads to many new ways of looking at the world
+- skills in expressing systems in a variety of ways: diagrams, code, etc
+- methods for thinking through complex problems, identifying where to intervene in complicated issues
+
+You'll be given class time to work on projects -- this is a good opportunity to ask questions, get feedback, etc. But it's unlikely that this in-class time alone will be enough to finish the projects.
 
 ---
 
@@ -110,7 +120,7 @@ Be prepared to discuss why you made the game you did and explain the decisions t
 
 ### Final
 
-Choose any topic you're interested in and create a game around it.
+Choose any topic you're interested in (it can be a different aspect of something we've already covered in class) and create a game around it.
 
 Your game should be available online and should include a system map describing it.
 
