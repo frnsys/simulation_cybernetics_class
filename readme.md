@@ -11,13 +11,27 @@ Listed description:
 
 ---
 
-What you'll get out of this course:
+## What you'll get out of this course
 
 - a new way of looking at the world, which hopefully leads to many new ways of looking at the world
 - skills in expressing systems in a variety of ways: diagrams, code, etc
 - methods for thinking through complex problems, identifying where to intervene in complicated issues
 
 You'll be given class time to work on projects -- this is a good opportunity to ask questions, get feedback, etc. But it's unlikely that this in-class time alone will be enough to finish the projects.
+
+---
+
+# Office Hours
+
+I'm available for office hours as needed. Please email me or let me know in class in advance and we can set up a time.
+
+# Grading
+
+Your grade will be computed as follows:
+
+- 20% Attendance/Participation
+- 60% Assignments
+- 20% Final project
 
 ---
 
