@@ -76,9 +76,11 @@ Your grade will be computed as follows:
 
 ### Assignment #1
 
-Choose a system that is interesting or relevant to you. Map it out as a system map in as much detail as you can.
+Choose a system that is interesting or relevant to you. Map it out as a system map in as much detail as you can, using a combination of a causal loop diagram and a stock and flow diagram.
 
 Some things to consider: Who are the individuals, organizations, groups, etc involved? What parts of the system do the affect, and what parts of the system affect them? What technologies or natural phenomena are involved, if any? What are important indications of the system's well-being?
+
+Identify leverage points in the system. Try to get some that are cultural/social, some that are policy/political, some that are technological.
 
 ### Assignment #2
 
