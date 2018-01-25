@@ -84,6 +84,8 @@ Some things to consider: Who are the individuals, organizations, groups, etc inv
 
 Play one of the following games and write your thoughts in Canvas. Some things to consider: Was the game challenging and/or engaging? Did the game clearly communicate its ideas and perspective? What were your main takeaways?
 
+Also, try to map out the system underlying the game as well as you can.
+
 You may also play a game not on this list, so long as it is relevant/similar to the ones listed here and you explain why you chose that game.
 
 - [The Founder](http://thefounder.biz/)
