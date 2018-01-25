@@ -82,13 +82,12 @@ Some things to consider: Who are the individuals, organizations, groups, etc inv
 
 ### Assignment #2
 
-Play one of the following games and write your thoughts in Canvas. Some things to consider: Was the game challenging and/or engaging? Did the game clearly communicate its ideas and perspective? What were your main takeaways?
+Play [The Founder](http://thefounder.biz/) and one of the following games and write your thoughts in Canvas. Some things to consider: Was the game challenging and/or engaging? Did the game clearly communicate its ideas and perspective? What were your main takeaways?
 
 Also, try to map out the system underlying the game as well as you can.
 
 You may also play a game not on this list, so long as it is relevant/similar to the ones listed here and you explain why you chose that game.
 
-- [The Founder](http://thefounder.biz/)
 - [Universal Paperclips](http://www.decisionproblem.com/paperclips/index2.html)
 - [Advanced Bitcoin Simulator](http://bitsim.beepboopbitcoin.com/)
 - [Nova Alea](http://molleindustria.org/nova-alea/)
