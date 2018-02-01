@@ -5,6 +5,10 @@
 
 ---
 
+# [The class code reference repository is here -- if you forgot how to do something, check here](https://github.com/frnsys/simulation_cybernetics_code)
+
+---
+
 Listed description:
 
 > [Tracks C, M] This course will examine the usage of models, simulations, and games as ways of exploring, understanding, and critiquing various systems - ecological, social, economic, and/or political. Students will dissect and discuss classic models such as Schelling's Model of Segregation and Sugarscape, in addition to narrative applications, such as Vertu and Dwarf Fortress. Throughout the course students will learn various techniques for developing these models and will collectively design and implement a series of simple interactive simulations on topics of their choosing, such as voting, social media, and opinion flow and influence dynamics. Students should come with some prior programming experience, ideally with Python. An introductory Python course is offered in parallel for students without prior programming experience. Important note: Students must bring their own laptops to class.
